@@ -8,7 +8,7 @@ Explore dashboards, each with its own dedicated README detailing the build proce
 
 ### Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs DB GIF](Images/Data_Jobs_v1.png)
+![Data Jobs DB GIF](Images\Data_Jobs_v1.png)
 
 **Power BI Skills Utilized:**
 - 🎨 Dashboard Layout & Design  
