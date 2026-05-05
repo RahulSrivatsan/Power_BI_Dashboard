@@ -18,4 +18,4 @@ Explore dashboards, each with its own dedicated README detailing the build proce
 - 📈 Core Charts (Bar, Line, Column)  
 - 📌 KPI Cards & Detailed Data Tables  
 - 🎛️ Interactive Slicers for Filtering
-- 🎚️ Parameter Creation
+- 🎚️ Parameter Creation.
